@@ -1,0 +1,40 @@
+---
+title: Prova 4 bimestre 2020
+layout: posts
+excerpt_separator: <!-- more -->
+comments: true
+---
+Olá a todos,
+
+
+Não sei se alguém lerá isto até lá, mas o período de provas do quarto bimestre deste ano estão chegando.<!-- more --> E eu gostaria de desejar a todos uma boa prova. E gostaria de deixar algumas dicas de como fazer a prova, mas as dicas que deixaria são as que todos já conhecem.
+
+<figure>
+<img src="/assets/images/exam.jpg" width="500px">
+<figcaption>Imagem retirada de https://unsplash.com/photos/s9CC2SKySJM</figcaption>
+</figure>
+
+Que entre elas estão reveja o conteudo abordado nestes dias, memorize conceitos ou informações importantes, leia anotações dos textos lidos anteriormente, faça algumas anotações que achar necessário (algumas pessoas lembram-se mais quando escrevem algo), descanse / relaxe no dia da prova, durante a prova mantenha a calma (terei algumas maracujinas antes da prova para me manter calmo rs).
+
+Mas como todo mundo já as conhece vou apenas deixar registrado que desejo uma boa prova a todos, ou a alguns (diria que é a maioria) uma boa sorte. Você tem alguma sugestão da preparação para as provas?? Deixe um comentário.
+{% if page.comments %}
+<div id="disqus_thread"></div>
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://https-calculanotas-rregio-top.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+{% endif %}

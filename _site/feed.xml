@@ -1,4 +1,36 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-11-12T20:28:19-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Calcula Notas Univesp Blog</title><entry><title type="html">Copiar media das semanas avaliativas</title><link href="http://localhost:4000/2020/11/12/Copiar_media.html" rel="alternate" type="text/html" title="Copiar media das semanas avaliativas" /><published>2020-11-12T00:00:00-03:00</published><updated>2020-11-12T00:00:00-03:00</updated><id>http://localhost:4000/2020/11/12/Copiar_media</id><content type="html" xml:base="http://localhost:4000/2020/11/12/Copiar_media.html">&lt;p&gt;O recurso de copiar a média da nota é util para ser usada na tela de comparação de gabarito (para prever a nota)&lt;!-- more --&gt;, sem este recurso você teria que lembrar a média das atividades avaliativas e digitar no campo correspondente, desta forma fica muito mais fácil e rápido de prever a nota.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-12-01T07:46:59-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Calcula Notas Univesp Blog</title><entry><title type="html">Prova 4 bimestre 2020</title><link href="http://localhost:4000/2020/12/01/Prova4Bim2020.html" rel="alternate" type="text/html" title="Prova 4 bimestre 2020" /><published>2020-12-01T00:00:00-03:00</published><updated>2020-12-01T00:00:00-03:00</updated><id>http://localhost:4000/2020/12/01/Prova4Bim2020</id><content type="html" xml:base="http://localhost:4000/2020/12/01/Prova4Bim2020.html">&lt;p&gt;Olá a todos,&lt;/p&gt;
+
+&lt;p&gt;Não sei se alguém lerá isto até lá, mas o período de provas do quarto bimestre deste ano estão chegando.&lt;!-- more --&gt; E eu gostaria de desejar a todos uma boa prova. E gostaria de deixar algumas dicas de como fazer a prova, mas as dicas que deixaria são as que todos já conhecem.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;/assets/images/exam.jpg&quot; width=&quot;500px&quot; /&gt;
+&lt;figcaption&gt;Imagem retirada de https://unsplash.com/photos/s9CC2SKySJM&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Que entre elas estão reveja o conteudo abordado nestes dias, memorize conceitos ou informações importantes, leia anotações dos textos lidos anteriormente, faça algumas anotações que achar necessário (algumas pessoas lembram-se mais quando escrevem algo), descanse / relaxe no dia da prova, durante a prova mantenha a calma (terei algumas maracujinas antes da prova para me manter calmo rs).&lt;/p&gt;
+
+&lt;p&gt;Mas como todo mundo já as conhece vou apenas deixar registrado que desejo uma boa prova a todos, ou a alguns (diria que é a maioria) uma boa sorte. Você tem alguma sugestão da preparação para as provas?? Deixe um comentário.&lt;/p&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://https-calculanotas-rregio-top.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content><author><name></name></author><summary type="html">Olá a todos, Não sei se alguém lerá isto até lá, mas o período de provas do quarto bimestre deste ano estão chegando.</summary></entry><entry><title type="html">Copiar media das semanas avaliativas</title><link href="http://localhost:4000/2020/11/12/Copiar_media.html" rel="alternate" type="text/html" title="Copiar media das semanas avaliativas" /><published>2020-11-12T00:00:00-03:00</published><updated>2020-11-12T00:00:00-03:00</updated><id>http://localhost:4000/2020/11/12/Copiar_media</id><content type="html" xml:base="http://localhost:4000/2020/11/12/Copiar_media.html">&lt;p&gt;O recurso de copiar a média da nota é util para ser usada na tela de comparação de gabarito (para prever a nota)&lt;!-- more --&gt;, sem este recurso você teria que lembrar a média das atividades avaliativas e digitar no campo correspondente, desta forma fica muito mais fácil e rápido de prever a nota.
 Para utilizar este recurso ao acessar o aplicativo clique no primeiro botão conforme imagem abaixo:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/first_btn.jpeg&quot; width=&quot;300px&quot; class=&quot;imglogo&quot; alt=&quot;primeiro botão&quot; /&gt;&lt;/p&gt;
@@ -9,4 +41,27 @@ Para utilizar este recurso ao acessar o aplicativo clique no primeiro botão con
 
 &lt;p&gt;Após ter copiado pode-se ir na voltar (na tela inicial), clicar no segundo botão, e colar a nota copiada anteriormente e colar no primeiro campo de texto como na imagem abaixo:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/colando_media.jpeg&quot; width=&quot;300px&quot; class=&quot;imglogo&quot; alt=&quot;media copiada&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">O recurso de copiar a média da nota é util para ser usada na tela de comparação de gabarito (para prever a nota)</summary></entry></feed>
+&lt;p&gt;&lt;img src=&quot;/assets/images/colando_media.jpeg&quot; width=&quot;300px&quot; class=&quot;imglogo&quot; alt=&quot;media copiada&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Tem alguma sugestão para o aplicativo? Deixe um comentário que a analisaremos.&lt;/p&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://https-calculanotas-rregio-top.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content><author><name></name></author><summary type="html">O recurso de copiar a média da nota é util para ser usada na tela de comparação de gabarito (para prever a nota)</summary></entry></feed>

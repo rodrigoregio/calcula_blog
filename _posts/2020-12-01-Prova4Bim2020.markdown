@@ -3,6 +3,7 @@ title: Prova 4 bimestre 2020
 layout: posts
 excerpt_separator: <!-- more -->
 comments: true
+tag: variados
 ---
 Olá a todos,
 

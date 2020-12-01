@@ -3,6 +3,7 @@ title: Copiar media das semanas avaliativas
 layout: posts
 excerpt_separator: <!-- more -->
 comments: true
+tag: novidades
 ---
 O recurso de copiar a média da nota é util para ser usada na tela de comparação de gabarito (para prever a nota)<!-- more -->, sem este recurso você teria que lembrar a média das atividades avaliativas e digitar no campo correspondente, desta forma fica muito mais fácil e rápido de prever a nota.
 Para utilizar este recurso ao acessar o aplicativo clique no primeiro botão conforme imagem abaixo:

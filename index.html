@@ -31,11 +31,14 @@ actual: 2020
     </p>
 </article>
 <article class="w3-container" id="posts">
-    <h1 class="w3-container">Novidades no app:</h1>
-    {% for post in site.posts %}
-    <div class="w3-panel w3-pale-red">
-        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-        <p>{{ post.excerpt }}</p>
-    </div>
+    <h1 class="w3-container">Posts no blog:</h1>
+    {% for tag in site.tags %}
+        <h3>{{ tag[0] }}</h3>
+        {% for post in tag[1]%}
+        <div class="w3-panel w3-pale-red">
+            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+            <p>{{ post.excerpt }}</p>
+        </div>
+        {% endfor %}
     {% endfor %}
 </article>
